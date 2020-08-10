@@ -1,0 +1,36 @@
+body {
+    font-family: montserrat;
+
+}
+
+#main {
+    width: 55%;
+}
+
+#title {
+    font-family: 'Griffy', cursive;
+}
+
+.header {
+    font-size: 4.5em;
+    color: #08d9d6;
+}
+
+img {
+    border-radius: 100%;
+    width: 80%;
+}
+
+#headline {
+    color: #f38181;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+h4 {
+    font-weight: 900;
+}
+
+.link:hover{
+    text-decoration: none;
+}
